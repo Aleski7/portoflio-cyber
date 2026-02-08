@@ -117,3 +117,18 @@ footer {
     border-top: 1px solid #00ff9c;
     color: #66ffcc;
 }
+.code-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px 18px;
+    border: 1px solid #00ff9c;
+    color: #00ff9c;
+    text-decoration: none;
+    font-family: "Courier New", monospace;
+    transition: 0.3s;
+}
+
+.code-btn:hover {
+    background-color: #00ff9c;
+    color: #000;
+}
